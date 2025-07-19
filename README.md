@@ -1,1 +1,1 @@
-# MDST-F25-SportsAnalysis
+# MDST-F25: Sports Data Analysis
